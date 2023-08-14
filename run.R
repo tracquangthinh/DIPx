@@ -11,8 +11,15 @@ registerDoParallel(n_core)
 target_updown_path <- "data/target_updown.RData"
 synergy_path <- "data/synergy_score.RData"
 gex_path <- "data/gex.RData"
-geneset_path <- "data/geneset.RData"
 driver_gene_path <- "data/driver_gene.RData"
+
+# geneset contains a gene list of 4762 pathways from MSigDB
+# You can also input your list of pathways. E.g:
+# geneset["Pathway_1"] = c("Gene1", "Gene2")
+# geneset["Pathway_2"] = c("Gene3", "Gene4", "Gene5")
+# save(geneset, file =  "data/geneset.RData")
+geneset_path <- "data/geneset.RData"
+
 
 ### generate pas ###
 pas_path <- generate_pas(gex_path, synergy_path, target_updown_path, geneset_path, driver_gene_path)
