@@ -9,8 +9,13 @@ NOTE: DIPx is for research use only, please do not use results of DIPx for any p
 If you are using DIPx in your research, please cite:
 
 ```
-Quang Thinh Trac*, Yue Huang*, Tom Erkers, Päivi Östling, Anna Bohlin, Albin Österroos, Mattias Vesterlund, Rozbeh Jafari, Ioannis Siavelis, Helena Bäckvall, Santeri Kiviluoto, Lukas M. Orre, Mattias Rantalainen, Janne Lehtiö, Sören Lehmann, Olli Kallioniemi, Yudi Pawitan & Trung Nghia Vu. 
-Pathway activation model for personalized prediction of drug synergy.
-*: Authors contributed equally to this work.
+Trac Quang Thinh, Huang Yue, Erkers Tom, Östling Päivi, Bohlin Anna, Österroos Albin, 
+Vesterlund Mattias, Jafari Rozbeh, Siavelis Ioannis, Bäckvall Helena, Kiviluoto Santeri, 
+Orre Lukas M, Rantalainen Mattias, Lehtiö Janne, Lehmann Sören, Kallioniemi Olli, 
+Pawitan Yudi, Vu Trung Nghia (2024) 
+
+Pathway activation model for personalized prediction of drug synergy eLife 13:RP100071
+
+https://doi.org/10.7554/eLife.100071.3
 ```
 
